@@ -35,8 +35,8 @@ const NETWORKS: Record<ChainMode, NetworkConfig> = {
  */
 export const CONTRACT_ADDRESSES = {
   testnet: {
-    dbtc: '',
-    budgetProposal: ''
+    dbtc: '0x8972bc4dea1d2760E3f5b0a90675Dde15506aA8E',
+    budgetProposal: '0xf73aB0E2069029c881EFB825f74aC602472d3ace'
   },
   mainnet: {
     dbtc: '',
