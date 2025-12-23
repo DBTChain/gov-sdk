@@ -1,6 +1,6 @@
 {
   "name": "@dbtchain/gov-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Public SDK for DBTC - Simplified blockchain interactions for government departments and agencies",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
